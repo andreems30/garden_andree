@@ -1,8 +1,5 @@
 1. cherry tomatoes
 2. basil seeds 
-<<<<<<< HEAD
 3.jalapenos
 4. cayenne peppers
 5. thai basil
-=======
->>>>>>> feature1
